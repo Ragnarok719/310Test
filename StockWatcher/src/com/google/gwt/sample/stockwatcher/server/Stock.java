@@ -13,7 +13,7 @@ public class Stock {
 
 	@PrimaryKey
 	@Persistent(valueStrategy = IdGeneratorStrategy.IDENTITY)
-	private Long id;
+	private Long idddd;
 	@Persistent
 	private User user;
 	@Persistent
